@@ -4,3 +4,6 @@ backgroundColor = "#E7EFEC"
 
 [client]
 toolbarMode = "minimal"
+
+[server]
+enableStaticServing = true
